@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:lukewarm_ocean": "2024-09-21 13:48:45 +0000"
+      "minecraft:lukewarm_ocean": "2024-09-21 13:48:45 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-09-21 14:27:29 +0000"
     },
     "done": false
   },
@@ -62,6 +63,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-09-21 13:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-09-21 14:27:32 +0000"
     },
     "done": true
   },
