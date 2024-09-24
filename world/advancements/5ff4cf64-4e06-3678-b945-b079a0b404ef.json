@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-09-21 16:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-21 16:08:10 +0000"
@@ -411,12 +417,6 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-21 16:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_copper_door_from_honeycomb": {
-    "criteria": {
-      "has_weathered_copper_door": "2024-09-21 16:24:31 +0000"
     },
     "done": true
   },
@@ -492,21 +492,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-09-21 16:20:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-09-21 16:08:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2024-09-21 16:08:05 +0000"
     },
     "done": true
   },
@@ -537,6 +525,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-09-21 16:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-09-21 16:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper_door": "2024-09-21 16:24:31 +0000"
     },
     "done": true
   },
